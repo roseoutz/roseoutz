@@ -17,12 +17,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roseoutz&layout=compact&theme=tokyonight)
 
-<p align="center">
-   <img src="https://img.shields.io/badge/language-typescript-blue?style"/>
-   <img src="https://img.shields.io/github/license/maxam2017/productive-box"/>
-   <img src="https://img.shields.io/github/stars/maxam2017/productive-box"/>
-   <img src="https://img.shields.io/github/forks/maxam2017/productive-box"/>
-</p>
-
  Last Updated on 26/06/2022 18:43:42 UTC
 <!--END_SECTION:waka-->
